@@ -1,5 +1,5 @@
 function nextPage(){
-    window.location.href = "yes.html";
+    window.location.href = "Yes.html";
 }
 
 function moveButton(){
